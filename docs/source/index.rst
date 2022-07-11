@@ -9,4 +9,5 @@ Welcome to Fisher Matrix Code's documentation!
 .. toctree::
 	Code Installation <code_installation.rst>
 	Code Explanation <code_explanation.rst>
+	Code Characteristics <code_characteristics.rst>
 
